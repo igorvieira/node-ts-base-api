@@ -3,6 +3,7 @@
 
 > Base with Nodejs API to start a new project with authentication
 
+[![Complete workflow](https://github.com/igorvieira/node-ts-base-api/actions/workflows/full-workflow.yml/badge.svg)](https://github.com/igorvieira/node-ts-base-api/actions/workflows/full-workflow.yml)
 
 ## Build Setup
 
